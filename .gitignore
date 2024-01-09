@@ -31,5 +31,11 @@
 *.out
 *.app
 
+# Intermediate files
 Intermediate/
+
+# Compiled binaries
 Binaries/
+
+# Compiled build files
+Build/
