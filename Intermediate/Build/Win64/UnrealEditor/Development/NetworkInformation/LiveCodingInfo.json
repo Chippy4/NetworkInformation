@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NetworkInformation.cpp.obj": [
+			"NetworkInformation.init.gen.cpp.obj",
+			"UNetworkInformation.gen.cpp.obj",
+			"NetworkInformation.cpp.obj",
+			"UNetworkInformation.cpp.obj"
+		]
+	}
+}
