@@ -3,7 +3,7 @@
 ## Setup
 
 ### 1. Add a C++ Class to Your Project:
-   - In Unreal Engine, add a C++ class to your project to enable plugin integration.
+   - In Unreal Engine, add a C++ class to your project.
 
 ### 2. Create a Plugins Folder:
    - Navigate to your project folder using Explorer and create a folder named "Plugins."
