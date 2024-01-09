@@ -32,10 +32,10 @@
 *.app
 
 # Intermediate files
-Intermediate/
+Intermediate/*
 
 # Compiled binaries
-Binaries/
+Binaries/*
 
 # Compiled build files
-Build/
+Build/*
