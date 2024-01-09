@@ -9,15 +9,13 @@
    - Navigate to your project folder using Explorer and create a folder named "Plugins."
 
 ### 3. Download and Paste the Plugin:
-   - [Download the Network Information Display plugin](#). <!-- Add a link to your download -->
    - Paste the downloaded plugin into the "Plugins" folder you created.
 
 ### 4. Generate VS Project Files:
-   - Open the project in Unreal Engine.
    - Right-click on your project file (.uproject) and select "Generate Visual Studio project files."
 
 ### 5. Build Project in Visual Studio:
-   - Open the generated Visual Studio project.
+   - Open the Visual Studio project.
    - Build the project in Visual Studio.
 
 ## Usage
