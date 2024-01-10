@@ -43,7 +43,8 @@
    - To update all variables, call the Blueprint-exposed "Update Net Stats Function." In the example, this is done on tick.
 
 ### 5. Show case:
-![Alt Text](https://i.imgur.com/xL6PrAj.jpg)
+   - Very bad connection
+![Very bad connection](https://i.imgur.com/xL6PrAj.jpg)
 
 ### 6. Icon Attribution:
    - Icons used in the plugin are sourced from [google fonts](https://fonts.google.com/) and are free to use, modify, and use commercially. [Refer to used license for details.](https://www.apache.org/licenses/LICENSE-2.0) 
