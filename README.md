@@ -50,9 +50,9 @@
    - To update all variables, call the Blueprint-exposed "Update Net Stats Function." In the example, this is done on tick.
 ### 5. Set bad variables
    - There are exposed variables in the widget. Those are called:
-     -Bad ping
-     -Bad packet loss out
-     -Bad packet loss in
+     - Bad ping
+     - Bad packet loss out
+     - Bad packet loss in
    - They decide when a connection is bad. We would recommend to leave them at default.
 ### Show case:
    - Very bad connection
