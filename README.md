@@ -22,7 +22,9 @@
    - A simple, fully functional design is included calledWBP_NetworkInformation. 
 
 #### Use our design:
-   - You can easily access it by creating a new Widget blueprint or going in to an existing one. In the add components tab, just search for WBP_NetworkInformation. You need to set the anchors to fullscreen as well as making sure left, right, top and bottom offsets are 0.
+   - You can easily access it by creating a new Widget blueprint or going in to an existing one. 
+   - In the add components tab, just search for WBP_NetworkInformation. 
+   - Set the anchors to fullscreen as well as making sure left, right, top and bottom offsets are 0.
 
 #### Make your own design:
    - If you wish to create your own design:
