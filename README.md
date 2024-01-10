@@ -20,7 +20,8 @@
 
 ## Usage
 
-- A simple design is included (WBP_NetworkInformation). If you wish to create your own design:
+   - A simple design is included (WBP_NetworkInformation). You can easily access it by creating a new Widget blueprint or going in to an existing one. In the add components tab, just search for WBP_NetworkInformation. 
+   - If you wish to create your own design:
 
 ### 1. Create Blueprint:
    - Right-click in the Content Browser and select "Blueprint."
@@ -41,12 +42,20 @@
 
 ### 4. Update Variables:
    - To update all variables, call the Blueprint-exposed "Update Net Stats Function." In the example, this is done on tick.
-
-### 5. Show case:
+### 5. Set bad variables
+   - There are exposed variables in the widget. Those are called:
+     *Bad ping
+     *Bad packet loss out
+     *Bad packet loss in
+   - They decide when a connection is bad. We would recommend to leave them at default.
+### Show case:
    - Very bad connection
 ![Very bad connection](https://i.imgur.com/xL6PrAj.jpg)
-
-### 6. Icon Attribution:
+   - Bad connection
+![Bad connection](https://i.imgur.com/bhWC8D8.jpg)
+   - Okay/normal/good connection
+![Okay/normal/good connection](https://i.imgur.com/V6pwqIl.jpg)
+### Icon Attribution:
    - Icons used in the plugin are sourced from [google fonts](https://fonts.google.com/) and are free to use, modify, and use commercially. [Refer to used license for details.](https://www.apache.org/licenses/LICENSE-2.0) 
 
 
