@@ -19,7 +19,7 @@
    - Build the project in Visual Studio.
 
 ## Usage
-   - A simple, fully functional design is included calledWBP_NetworkInformation. 
+   - A simple, fully functional design is included called WBP_NetworkInformation. 
 
 #### Use our design:
    - You can easily access it by creating a new Widget blueprint or going in to an existing one. 
