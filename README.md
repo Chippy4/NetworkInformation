@@ -62,12 +62,12 @@
    - Okay/normal/good connection
 ![Okay/normal/good connection](https://i.imgur.com/V6pwqIl.jpg)
 
---
+---
 
 > :warning: *In a listen server model, the server(host) dosen't have a valid NetConnection, all values will be replaced with -*
 
 ### Icon Attribution:
-   - Icons used in the plugin are sourced from [google fonts](https://fonts.google.com/) and are free to use, modify, and use commercially. [Refer to used license for details.](https://www.apache.org/licenses/LICENSE-2.0) 
+   - Icons used in the plugin are sourced from [google fonts](https://fonts.google.com/) and are free to use, modify, and use commercially. [Refer to Google's license for details.](https://www.apache.org/licenses/LICENSE-2.0) 
 
 
 ---
